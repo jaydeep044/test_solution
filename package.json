@@ -1,0 +1,19 @@
+{
+  "name": "test_solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydeep044/test_solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydeep044/test_solution/issues"
+  },
+  "homepage": "https://github.com/jaydeep044/test_solution#readme"
+}
